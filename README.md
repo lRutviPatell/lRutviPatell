@@ -73,8 +73,8 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 
 ### 🧪 Academic Projects  
 
-| 💡 Project | 🏥 Focus |
-|------------|----------|
+| 💡 Project |
+|------------|
 | **Heart Attack Prediction– Data Visualization** | Analyzed risk factors for heart attacks using clinical,behavioral, and demographic data. 
 Delivered accessibility-focused visual report with clinical insights. 
 Also created a dashboard in Tableau for heart attack prediction based on demographics, lifestyle and clinical risk analysis.|
