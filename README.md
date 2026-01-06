@@ -21,11 +21,11 @@
 
 🎓 **Master’s Student in Health Informatics** at *DePaul University, Chicago (2024 – 2026)*  
 💊 **Pharm D** from *L.M. College of Pharmacy, Ahmedabad (2017 – 2023)*  
-📍 Based in **Chicago, IL, USA**  
+📍 Based in **Brunswick, OH**  
 📧 Email: **rutvipat0799@gmail.com**  
 
 I’m passionate about using **data analytics, EHR systems, and healthcare technology** to improve patient care and clinical efficiency.  
-With expertise in **SQL, Python, Tableau, and healthcare informatics**, I aim to bridge the gap between **clinical knowledge and data-driven innovation**.  
+With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**, I aim to bridge the gap between **clinical knowledge and data-driven innovation**.  
 
 ---
 
@@ -59,15 +59,15 @@ With expertise in **SQL, Python, Tableau, and healthcare informatics**, I aim to
 
 #### 👩‍⚕️ Pharm D Intern – *GCS Medical College & Research Centre*  
 📅 *Jun 2022 – Jun 2023*  
-- Identified **adverse drug reactions (ADR)** and reported findings to healthcare teams.  
-- Integrated patient medication histories into **EHR systems** for clinical accessibility.  
-- Provided **drug information consultation** to physicians and pharmacists.  
+-Analyzed clinical records and medication-related datasets to ensure data accuracy, completeness, and regulatory compliance.
+-Interpreted clinical data and medical terminology to support evidence-based clinical and operational decisions.
+-Communicated findings to physicians and healthcare staff through structured written summaries.  
 
 #### 🏥 Pharm D Intern – *Zydus Hospitals*  
 📅 *Oct 2021 – Dec 2022*  
-- Conducted **prescription audits** and ensured medication compliance.  
-- Led **training sessions** for pharmacists on updated treatment guidelines.  
-- Improved patient adherence through counseling and follow-up tracking.
+-Audited prescriptions and treatment plans to verify clinical appropriateness and data integrity.
+-Supported process improvement by identifying documentation gaps and workflow inefficiencies.
+-Collaborated with interdisciplinary teams while maintaining strict patient data privacy standards.
 
 ---
 
@@ -75,10 +75,15 @@ With expertise in **SQL, Python, Tableau, and healthcare informatics**, I aim to
 
 | 💡 Project | 🏥 Focus |
 |------------|----------|
+| **Heart Attack Prediction– Data Visualization** | Analyzed risk factors for heart attacks using clinical,
+behavioral, and demographic data. Delivered accessibility-focused visual report with clinical insights. Also created a dashboard in Tableau for
+heart attack prediction based on demographics, lifestyle and clinical risk analysis.|
+| **MBA Admission Regression Analysis** | Built linear, polynomial, interaction, LASSO, and Ridge regression models
+to identify significant predictors of MBA academic performance. Conducted EDA, multicollinearity tests (VIF), and
+AIC-based feature selection. Delivered reproducible workflow in R Markdown.|
 | **EHR Impact on Healthcare Quality** | Studied EHR adoption effects on efficiency and outcomes. |
 | **AI-Powered Healthcare Platform** | Developed web-based analytics dashboard for collaboration. |
-| **Smart Gait Tracking for Limb Rehabilitation** | Designed real-time gait tracking system for stroke patients. |
-| **CYP2C9 & CYP2C19 Genetic Study** | Explored pharmacogenomic impact on Clopidogrel efficacy. |
+
 
 ---
 
