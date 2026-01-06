@@ -103,17 +103,25 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
   <a href="https://github.com/lRutviPatell/Healthcare-Analytics-Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lRutviPatell&repo=Healthcare-Analytics-Dashboard&theme=react&border_color=00C6FF&border_radius=10" />
   </a>
-  <a href="https://github.com/lRutviPatell/AI-Powered-Healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lRutviPatell&repo=AI-Powered-Healthcare&theme=react&border_color=00C6FF&border_radius=10" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/lRutviPatell/Healthcare-Analytics-Dashboard">
+    <img 
+      src="https://raw.githubusercontent.com/lRutviPatell/Healthcare-Analytics-Dashboard/main/assets/dashboard.png"
+      alt="Healthcare Analytics Dashboard"
+      width="800"
+      style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"
+    />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/lRutviPatell/AI-Powered-Healthcare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lRutviPatell&repo=AI-Powered-Healthcare&theme=react&border_color=00C6FF&border_radius=10" />
+  </a>
   <a href="https://github.com/lRutviPatell/EHR-Impact-Study">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lRutviPatell&repo=EHR-Impact-Study&theme=react&border_color=00C6FF&border_radius=10" />
-  </a>
-  <a href="https://github.com/lRutviPatell/Smart-Gait-Tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lRutviPatell&repo=Smart-Gait-Tracking&theme=react&border_color=00C6FF&border_radius=10" />
   </a>
 </p>
 
