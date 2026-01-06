@@ -106,7 +106,7 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 </p>
 
 <p align="center">
-  <a href="https://github.com/lRutviPatell/Healthcare-Analytics-Dashboard">
+  <a href="https://public.tableau.com/app/profile/rutvi.jagdishkumar.patel/viz/project1datavisualizationforheartattackrisk/Dashboard1" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/lRutviPatell/Healthcare-Analytics-Dashboard/main/assets/dashboard.png"
       alt="Healthcare Analytics Dashboard"
@@ -115,6 +115,7 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
     />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/lRutviPatell/AI-Powered-Healthcare">
