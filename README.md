@@ -59,34 +59,32 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 
 #### 👩‍⚕️ Pharm D Intern – *GCS Medical College & Research Centre*  
 📅 *Jun 2022 – Jun 2023*  
--Analyzed clinical records and medication-related datasets to ensure data accuracy, completeness, and regulatory compliance.
--Interpreted clinical data and medical terminology to support evidence-based clinical and operational decisions.
--Communicated findings to physicians and healthcare staff through structured written summaries.  
+- Analyzed clinical records and medication-related datasets to ensure data accuracy, completeness, and regulatory compliance.
+- Interpreted clinical data and medical terminology to support evidence-based clinical and operational decisions.
+- Communicated findings to physicians and healthcare staff through structured written summaries.  
 
 #### 🏥 Pharm D Intern – *Zydus Hospitals*  
 📅 *Oct 2021 – Dec 2022*  
--Audited prescriptions and treatment plans to verify clinical appropriateness and data integrity.
--Supported process improvement by identifying documentation gaps and workflow inefficiencies.
--Collaborated with interdisciplinary teams while maintaining strict patient data privacy standards.
+- Audited prescriptions and treatment plans to verify clinical appropriateness and data integrity.
+- Supported process improvement by identifying documentation gaps and workflow inefficiencies.
+- Collaborated with interdisciplinary teams while maintaining strict patient data privacy standards.
 
 ---
 
-### 🧪 Academic Projects  
+### 🧪 Projects  
 
-💡 Project 
-|------------|
-| **Heart Attack Prediction– Data Visualization** | 
-Analyzed risk factors for heart attacks using clinical,behavioral, and demographic data. 
-Delivered accessibility-focused visual report with clinical insights. 
-Also created a dashboard in Tableau for heart attack prediction based on demographics, lifestyle and clinical risk analysis.|
-| **MBA Admission Regression Analysis** | 
-Built linear, polynomial, interaction, LASSO, and Ridge regression models
-to identify significant predictors of MBA academic performance. Conducted EDA, multicollinearity tests (VIF), and AIC-based feature selection. 
-Delivered reproducible workflow in R Markdown.|
-| **EHR Impact on Healthcare Quality** | 
-Studied EHR adoption effects on efficiency and outcomes. |
-| **AI-Powered Healthcare Platform** | 
-Developed web-based analytics dashboard for collaboration. |
+#### Heart Attack Prediction– Data Visualization 
+- Analyzed risk factors for heart attacks using clinical,behavioral, and demographic data. 
+- Delivered accessibility-focused visual report with clinical insights. 
+- Also created a dashboard in Tableau for heart attack prediction based on demographics, lifestyle and clinical risk analysis.
+#### MBA Admission Regression Analysis
+- Built linear, polynomial, interaction, LASSO, and Ridge regression models to identify significant predictors of MBA academic performance.
+- Conducted EDA, multicollinearity tests (VIF), and AIC-based feature selection.
+- Delivered reproducible workflow in R Markdown.
+#### EHR Impact on Healthcare Quality
+- Studied EHR adoption effects on efficiency and outcomes.
+#### AI-Powered Healthcare Platform
+- Developed web-based analytics dashboard for collaboration.
 
 
 ---
