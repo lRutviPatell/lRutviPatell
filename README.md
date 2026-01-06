@@ -75,9 +75,9 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 
 | 💡 Project | 🏥 Focus |
 |------------|----------|
-| **Heart Attack Prediction– Data Visualization** | Analyzed risk factors for heart attacks using clinical,
-behavioral, and demographic data. Delivered accessibility-focused visual report with clinical insights. Also created a dashboard in Tableau for
-heart attack prediction based on demographics, lifestyle and clinical risk analysis.|
+| **Heart Attack Prediction– Data Visualization** | Analyzed risk factors for heart attacks using clinical,behavioral, and demographic data. 
+Delivered accessibility-focused visual report with clinical insights. 
+Also created a dashboard in Tableau for heart attack prediction based on demographics, lifestyle and clinical risk analysis.|
 | **MBA Admission Regression Analysis** | Built linear, polynomial, interaction, LASSO, and Ridge regression models
 to identify significant predictors of MBA academic performance. Conducted EDA, multicollinearity tests (VIF), and
 AIC-based feature selection. Delivered reproducible workflow in R Markdown.|
