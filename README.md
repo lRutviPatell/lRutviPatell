@@ -57,6 +57,14 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 
 ### 💼 Experience  
 
+#### 👩‍⚕️ Data Analyst Intern – *Neighborhood Family Practice*  
+📅 *Mar 2026 – Current*  
+- Supported data-driven decision-making by completing ad hoc data requests for internal teams.
+- Refreshed and maintained dashboards using updated datasets to ensure accurate reporting.
+- Cleaned, manipulated, and summarized raw data to improve data quality and usability.
+- Collaborated with team members to analyze datasets and deliver actionable insights.
+- Assisted in preparing structured data for reporting and visualization purposes.
+
 #### 👩‍⚕️ Pharm D Intern – *GCS Medical College & Research Centre*  
 📅 *Jun 2022 – Jun 2023*  
 - Analyzed clinical records and medication-related datasets to ensure data accuracy, completeness, and regulatory compliance.
@@ -93,7 +101,6 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 
 - 🧬 **HIPAA Compliance** – North American Learning Institute  
 - 💊 **ICD-10-CM Medical Coding** – CMS  
-- 💻 **SQL for Healthcare (In Progress)** – Coursera  
 
 ---
 
