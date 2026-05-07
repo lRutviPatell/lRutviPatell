@@ -58,7 +58,7 @@ With expertise in **SQL, Python, Tableau, Power BI and healthcare informatics**,
 ### 💼 Experience  
 
 #### 👩‍⚕️ Data Analyst Intern – *Neighborhood Family Practice*  
-📅 *Mar 2026 – Current*  
+📅 *Mar 2026 – Apr 2026*  
 - Supported data-driven decision-making by completing ad hoc data requests for internal teams.
 - Refreshed and maintained dashboards using updated datasets to ensure accurate reporting.
 - Cleaned, manipulated, and summarized raw data to improve data quality and usability.
